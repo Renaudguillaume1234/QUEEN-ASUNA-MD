@@ -85,14 +85,14 @@
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
-      "required": false,
+      "required": true,
       "value": "INCONNU BOY"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "required": false,
-      "value": "554xxxxxx"
+      "required": true,
+      "value": "2250152729095"
 
     }, 
 
